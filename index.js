@@ -18,6 +18,7 @@ const App = {
 
   // If you want your trigger to show up, you better include it here!
   triggers: {
+    [recipe.key]: recipe // new line of code
   },
 
   // If you want your searches to show up, you better include it here!
