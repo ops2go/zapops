@@ -1,3 +1,5 @@
+// Place this at the top of index.js
+const recipe = require('./triggers/recipe');
 // We can roll up all our behaviors in an App.
 const App = {
   // This is just shorthand to reference the installed dependencies you have. Zapier will
